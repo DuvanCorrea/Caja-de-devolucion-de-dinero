@@ -1,2 +1,11 @@
 # Caja-de-devolucion-de-dinero
-Programa en forma de interfaz gráfica para calcular la denominación y cantidad de los billetes o monedas a devolver dependiendo de la cantidad ingresada
+
+Este pequeño programa muestra cuantos villetes de x denominacion se entregaran al 
+cliente, tambien administra la cantidad de billetes que se tienen en el momento, 
+mostrando cuantos billetes hay de cada denominacion (MONEDA COLOMBIANA COP)
+
+para ejecutar el archivo se siguen los siguientes pasos:
+
+- Se descarga el archivo Final.py del repositorio
+- Abrimos una terminal o cmd y navegamos hasta la ubicación donde se descargo el archivo
+- Ejecutamos el comando "python Final.py"
